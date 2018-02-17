@@ -1,0 +1,10 @@
+Package: org.midey.badgesyourfriend
+Name: BadgesYourFriend
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Display all badges, even if disabled in Notifications
+Maintainer: midey <mideydev@gmail.com>
+Author: midey <mideydev@gmail.com>
+Section: Tweaks
+Depiction: http://apt.midey.org/depictions/?p=org.midey.badgesyourfriend
